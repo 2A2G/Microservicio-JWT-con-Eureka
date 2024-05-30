@@ -13,3 +13,4 @@
 *_LOCAL_*.txt
 *_REMOTE_*.txt
 src/main/resources/application.properties
+target/
